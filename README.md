@@ -55,7 +55,7 @@ The project investigates several types of inputs, including:
 Results from the simulations, including raster plots of neuronal activity, connectivity graphs, and decision-making dynamics, can be found in the [report](./Report/Report.pdf).
 
 ## References
-- [PymoNNtorch Framework](https://github.com/cnrl/PymoNNtorch)
+- [PymoNNtorch Framework]( https://github.com/cnrl/PymoNNtorch)
 - [Neural Dynamics](https://neuronaldynamics.epfl.ch)
 - Dirac Delta Function: [Wikipedia Article](https://en.wikipedia.org/wiki/Dirac_delta_function)
 
