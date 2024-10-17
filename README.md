@@ -45,7 +45,7 @@ The project investigates several types of inputs, including:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mzamani18/Neuronal-Populations-Simulation
+   git clone https://github.com/MohaZamani/Neuronal-Populations-Simulation.git
 2. Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
