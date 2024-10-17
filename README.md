@@ -11,7 +11,7 @@ This project implements simulations of synaptic interactions between neuron popu
 - [References](#references)
 
 ## Project Overview
-This project is part of the second neural computation course project for the academic year 1402-1403. The main goals are to understand how synaptic mechanisms work, analyze the behavior of neuron populations under different stimulation conditions, and simulate decision-making processes in neural circuits.
+This project is part of the second neural computation course project. The main goals are to understand how synaptic mechanisms work, analyze the behavior of neuron populations under different stimulation conditions, and simulate decision-making processes in neural circuits.
 
 ## Implemented Features
 1. **Synaptic Mechanisms**: 
@@ -25,8 +25,15 @@ This project is part of the second neural computation course project for the aca
 3. **Noisy Inputs**: 
    - Simulation of neuron population responses to both **noisy** and **non-noisy** input currents, analyzing the sensitivity and firing rates under different conditions.
 
+
+
 4. **Decision-Making Simulation**: 
    - Simulation of decision-making processes when two neuron populations receive inputs, demonstrating competition and activity dynamics between excitatory and inhibitory neurons.
+
+<p align="center">
+  <img src="./Report/Figs/pic.png" alt="description" width="300"/>
+</p>
+
 
 ## Simulation Inputs
 The project investigates several types of inputs, including:
@@ -43,9 +50,7 @@ The project investigates several types of inputs, including:
    ```bash
    pip install -r requirements.txt
 3. Run the simulation notebooks:
-   - **For Synaptic Mechanisms**: Open and run `synaptic_mechanisms.ipynb`
-   - **For Population Behavior**: Open and run `population_behavior.ipynb`
-   - **For Decision-Making Simulation**: Open and run `decision_making.ipynb`
+   - Open and run `main.ipynb`
 
    Launch the notebooks by executing:
    ```bash
